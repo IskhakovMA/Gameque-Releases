@@ -50,7 +50,7 @@ VALORANT  →  Gameque sees a match starting  →  Spotify pauses
 - Configurable pause point
 - Per-game-mode behaviour
 - Runs in the tray: closing the window does not stop Gameque
-- Global shortcuts: show or hide the window (`Ctrl+Shift+H`), turn automation on or off (`Ctrl+Alt+A`)
+- Global hotkeys for showing or hiding Gameque and controlling automation
 - Launch with Windows (off by default)
 - Automatic update discovery
 
