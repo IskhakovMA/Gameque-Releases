@@ -14,12 +14,13 @@ The mark is the existing application icon. No new logo is drawn here.
 
 ## hero.png
 
-The wide image near the top of both READMEs. Shown at its natural size, never
-stretched: GitHub scales it down to fit narrow screens.
+Promotional artwork for the top of both READMEs — not an application screenshot.
+Shown at its natural proportions, never stretched: GitHub scales it down to fit
+narrow screens.
 
 ## screenshots/
 
-Real screenshots of Gameque on Windows only — no mockups.
+Real screenshots of Gameque captured on Windows — no mockups.
 
 | File | Shows | Used in |
 |---|---|---|
