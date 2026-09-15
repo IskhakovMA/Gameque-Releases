@@ -20,6 +20,10 @@
   <a href="https://github.com/IskhakovMA/Gameque-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/IskhakovMA/Gameque-Releases?label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=E8912B&labelColor=0E1013" alt="Последняя версия"></a>
 </p>
 
+<p align="center">
+  <img src="assets/hero.png" alt="Gameque ставит Spotify на паузу во время матча VALORANT">
+</p>
+
 ---
 
 ## Что такое Gameque
@@ -42,15 +46,15 @@ VALORANT  →  Gameque видит, что начинается матч  →  Sp
 - Автоматическая пауза и возобновление Spotify по ходу матча
 - Определение состояния VALORANT: меню, очередь, выбор агента, загрузка, матч
 - Spotify Desktop
-- Spotify Web через браузерное расширение Gameque ([подробнее](#spotify-desktop-и-spotify-web))
+- Spotify Web через браузерное расширение Gameque — публичная установка расширения и публикация в магазинах еще готовятся ([подробнее](#spotify-desktop-и-spotify-web))
 - Настраиваемый момент паузы
 - Отдельное поведение для каждого режима игры
 - Работа в трее: закрытие окна не останавливает Gameque
-- Глобальные горячие клавиши: показать или скрыть окно (`Ctrl+Alt+G`), включить или выключить автоматизацию (`Ctrl+Alt+A`)
+- Глобальные горячие клавиши: показать или скрыть окно (`Ctrl+Shift+H`), включить или выключить автоматизацию (`Ctrl+Alt+A`)
 - Запуск вместе с Windows (выключен по умолчанию)
 - Автоматический поиск обновлений
 
-Интерфейс текущих версий на английском. Русский интерфейс готовится к одному из следующих выпусков.
+Русский и английский интерфейс уже реализованы и появятся в следующем публичном выпуске. Текущий публичный выпуск пока на английском.
 
 ## Spotify Desktop и Spotify Web
 
@@ -60,7 +64,23 @@ VALORANT  →  Gameque видит, что начинается матч  →  Sp
 
 ## Скриншоты
 
-Скриншоты интерфейса появятся здесь в ближайшее время.
+<p align="center">
+  <img src="assets/screenshots/dashboard.png" alt="Главный экран Gameque: состояние матча и Spotify">
+  <br><sub>Главный экран</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/screenshots/settings.png" width="100%" alt="Настройки Gameque">
+      <br><sub>Настройки</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/screenshots/update.png" width="100%" alt="Доступное обновление в Gameque">
+      <br><sub>Обновления</sub>
+    </td>
+  </tr>
+</table>
 
 ## Установка
 

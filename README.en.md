@@ -20,6 +20,10 @@
   <a href="https://github.com/IskhakovMA/Gameque-Releases/releases/latest"><img src="https://img.shields.io/github/v/release/IskhakovMA/Gameque-Releases?label=version&color=E8912B&labelColor=0E1013" alt="Latest version"></a>
 </p>
 
+<p align="center">
+  <img src="assets/hero.png" alt="Gameque pausing Spotify during a VALORANT match">
+</p>
+
 ---
 
 ## What is Gameque
@@ -42,15 +46,15 @@ VALORANT  →  Gameque sees a match starting  →  Spotify pauses
 - Automatic Spotify pause and resume as the match goes
 - VALORANT state detection: menus, queue, agent select, loading, in match
 - Spotify Desktop
-- Spotify Web through the Gameque browser extension ([details](#spotify-desktop-and-spotify-web))
+- Spotify Web through the Gameque browser extension — public installation and store listings are still being prepared ([details](#spotify-desktop-and-spotify-web))
 - Configurable pause point
 - Per-game-mode behaviour
 - Runs in the tray: closing the window does not stop Gameque
-- Global shortcuts: show or hide the window (`Ctrl+Alt+G`), turn automation on or off (`Ctrl+Alt+A`)
+- Global shortcuts: show or hide the window (`Ctrl+Shift+H`), turn automation on or off (`Ctrl+Alt+A`)
 - Launch with Windows (off by default)
 - Automatic update discovery
 
-The interface of current releases is in English. A Russian interface is coming in an upcoming release.
+Russian and English interfaces are already built and ship in the next public release. The current public release is English only.
 
 ## Spotify Desktop and Spotify Web
 
@@ -60,7 +64,23 @@ The interface of current releases is in English. A Russian interface is coming i
 
 ## Screenshots
 
-Screenshots of the app are coming soon.
+<p align="center">
+  <img src="assets/screenshots/dashboard.png" alt="Gameque dashboard: match state and Spotify">
+  <br><sub>Dashboard</sub>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/screenshots/settings.png" width="100%" alt="Gameque settings">
+      <br><sub>Settings</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/screenshots/update.png" width="100%" alt="An update available in Gameque">
+      <br><sub>Updates</sub>
+    </td>
+  </tr>
+</table>
 
 ## Installation
 
